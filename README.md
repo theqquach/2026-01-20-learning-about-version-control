@@ -1,2 +1,3 @@
-# 2026-01-20-learning-about-version-control
-DSCI 310 IA2
+# Learning about Version Control
+## Author: Thê (Alexander) Quach
+ 
